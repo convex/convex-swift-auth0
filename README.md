@@ -1,7 +1,7 @@
 # Convex Swift - Auth0 Integration
 
 This library works with the core
-[Convex Swift](https://github.com/get-convex/convex-swift)
+[Convex Swift](https://github.com/convex/convex-swift)
 library and provides support for using Auth0 in `ConvexClientWithAuth`.
 
 The integration uses Auth0's
