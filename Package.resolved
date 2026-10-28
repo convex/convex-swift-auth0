@@ -13,7 +13,7 @@
     {
       "identity" : "convex-swift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/get-convex/convex-swift",
+      "location" : "https://github.com/convex/convex-swift",
       "state" : {
         "revision" : "7de1d6e09f9094383f21da6737cb37757d91ee00",
         "version" : "0.8.0"
